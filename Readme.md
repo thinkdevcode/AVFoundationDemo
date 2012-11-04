@@ -1,0 +1,1 @@
+A quick demo showing how to use AVFoundation to grab video from iOS device and display it in a subview in RubyMotion.
